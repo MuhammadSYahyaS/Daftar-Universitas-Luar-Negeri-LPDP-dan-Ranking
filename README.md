@@ -1,4 +1,4 @@
-# LPDP 2022 - Master Luar Negeri
+# Daftar Universitas Luar Negeri LPDP dan Ranking 2022
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Ranking kampus yang terdapat pada daftar pilihan kampus luar negeri beasiswa LPDP tahun 2022 (all subjects).
